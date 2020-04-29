@@ -1,0 +1,16 @@
+{
+  "name": "orders",
+  "version": "1.0.0",
+  "description": "Orders related microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MDI",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.664.0",
+    "express": "^4.17.1",
+    "node-datetime": "^2.1.2"
+  }
+}
