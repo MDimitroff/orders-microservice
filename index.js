@@ -9,8 +9,8 @@ app.use(express.json());
 // Set up aws
 AWS.config.update({
     region: 'eu-central-1'
-    // accessKeyId: 'AKIAUBFFK6SOG24HUIFW',
-    // secretAccessKey: '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'
+    // accessKeyId: 'xxx',
+    // secretAccessKey: 'xxx'
 });
 
 // Define route
