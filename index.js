@@ -47,6 +47,6 @@ app.post('/api/orders', (req, resp) => {
 });
 
 // Start to listen
-app.listen(3000, () => {
-    console.log('App successfully started listening on port 3000');
+app.listen(50001, () => {
+    console.log('App successfully started listening on port 50001');
 });
